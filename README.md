@@ -1,4 +1,4 @@
-### Hi!
+
 My name is Leyla. I'm a computer science student at Bilkent University.
 
 <!--
